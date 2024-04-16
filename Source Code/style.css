@@ -3,6 +3,7 @@
   box-sizing:content-box;
   margin: 0;
   padding: 0;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 
@@ -28,8 +29,8 @@ body {
   
   h1 {
     color: #333;
-    font-size: 16px;
-    margin: 0;
+    font-size: 22px;
+    margin: 30px;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
   }
@@ -216,9 +217,7 @@ text-decoration: none;
         background-color: rgb(144, 233, 251, 0.8);
       }
 
-      h1 {
-        color: #333; 
-    }
+
     form {
         background-color: orange; 
         padding: 20px;
@@ -248,3 +247,5 @@ input::placeholder {
   text-align: center;
 
 }
+
+
