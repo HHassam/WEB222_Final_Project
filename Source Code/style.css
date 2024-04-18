@@ -73,7 +73,7 @@ body {
   
 
   button[type="submit"]:hover {
-      background-color: rgb(144, 233, 251, 0.8);
+      background-color: rgba(225, 194, 22, 0.8);
   }
   
 
@@ -147,7 +147,7 @@ body {
   
   #results a:hover {
    
-    background-color: rgb(144, 233, 251, 0.8);
+    background-color: rgba(225, 194, 22, 0.8);
   }
 
 
@@ -228,7 +228,7 @@ text-decoration: none;
 
 
       button:hover {
-        background-color: rgb(144, 233, 251, 0.8);
+        background-color: rgba(225, 194, 22, 0.8);
       }
 
 
